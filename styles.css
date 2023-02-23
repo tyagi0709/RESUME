@@ -1,0 +1,39 @@
+body{
+  background-color: #44000D;
+  text-align: center;
+}
+hr{
+  background-color: #44000D;
+  border-style: none;
+  border-top-style: dotted;
+border-color: white;
+border-width: 5px;
+  width: 80%;
+}
+h1{
+  color: white;
+}
+h2{
+  color: #FFEBCC;
+}
+h3{
+  color: #FBFFE2;
+}
+p{
+  color: #D3F4FF;
+}
+ul{
+  color: #B2DFFB;
+}
+table{
+  color: #BEEBE9;
+}
+form{
+  color: #FAC213;
+}
+OL{
+  color: #A3DA8D;
+}
+.top{
+  margin-left: 625px;
+}
